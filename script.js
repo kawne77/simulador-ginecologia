@@ -398,8 +398,612 @@ const preguntasBase = [
       "D": "Actitud expectante, con controles ecográficos hasta conseguir gestación y durante la misma."
     },
     "correcta": "D"
+  },
+  {
+    "pregunta": "Respecto al mecanismo de acción de los anticonceptivos orales se puede afirmar que:",
+    "opciones": {
+      "A": "Actúan directamente en la hipófisis",
+      "B": "El pico de los estrógenos se produce de todas maneras",
+      "C": "La inhibición de la ovulación se debe al componente estrogénico y progesteronico",
+      "D": "Disminuyen la capacidad de la hipófisis de sintetizar GnRH"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Secundípara en la 38 semanas de gestación que comienza con dinámica de parto. Entre sus antecedentes obstétricos destaca la presencia de cesárea anterior por sufrimiento fetal agudo. Se hace un registro cardiotocográfico que demuestra una frecuencia cardíaca de 105 lpm, con baja variabilidad y deceleraciones tardías en el 10% de las contracciones. Se hace una microtoma de sangre fetal con resultado de 7,25. ¿Cuál de las siguientes actuaciones está contraindicada?:",
+    "opciones": {
+      "A": "Toma de pH materno para descartar acidosis materna.",
+      "B": "Aumentar el goteo de oxitocina para abreviar el expulsivo.",
+      "C": "Repetir microtoma en 15-20 minutos.",
+      "D": "Ayudar instrumentalmente en el expulsivo para acortarlo."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "De los siguientes factores, ¿cuál NO se considera de riesgo para el cáncer de mama?:",
+    "opciones": {
+      "A": "Fallo ovárico precoz.",
+      "B": "Síndrome de Li-Fraumeni.",
+      "C": "Raza blanca.",
+      "D": "Historia familiar de cáncer mamario."
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "En relación al cáncer vulvar, señale lo incorrecto:",
+    "opciones": {
+      "A": "Es un carcinoma invasivo de células escamosas",
+      "B": "Se presenta más en la posmenopausia",
+      "C": "Su vinculación es importante en nulíparas",
+      "D": "Su velocidad de avance es lento"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Los estrógenos son hormonas capaces de producir y mantener las características femeninas en la mujer. Su administración produce:",
+    "opciones": {
+      "A": "Aumento de HDL y LDL colesterol",
+      "B": "Aumento de HDL y disminución del LDL colesterol",
+      "C": "Disminución del HDL y aumento del LDL colesterol",
+      "D": "Disminución de los triglicéridos y del HDL colesterol"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el síntoma o signo más frecuente del cáncer de mama?",
+    "opciones": {
+      "A": "Telorragia.",
+      "B": "Nódulo mamario.",
+      "C": "Adenopatía axilar.",
+      "D": "Retracción del pezón."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la indicación fundamental del tratamiento hormonal sustitutivo del climaterio?",
+    "opciones": {
+      "A": "Aliviar los sofocos y síntomas climatéricos.",
+      "B": "Retrasar las lesiones del tejido conjuntivo (prolapso, incontinencia).",
+      "C": "Prevenir las lesiones vasculares.",
+      "D": "Prevenir la osteoporosis."
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "En la circulación materna durante el embarazo ocurren los siguientes fenómenos, EXCEPTO:",
+    "opciones": {
+      "A": "Aumento de la masa sanguínea.",
+      "B": "Disminución de los valores y de la actividad de los factores plasmáticos de la coagulación.",
+      "C": "Aumento de la frecuencia cardíaca.",
+      "D": "Se produce leucocitosis sin infección."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Mujer de 25 años gestante de 9 semanas. Acude a Urgencias por presentar tumefacción de la pantorrilla izquierda de dos días de evolución. Eco-doppler venoso de miembros inferiores: ocupación de la vena poplítea femoral superficial y femoral profunda del miembro inferior izquierdo por material ecogénico con mala compresibilidad de dichos vasos. ¿Cuál sería el tratamiento más adecuado?",
+    "opciones": {
+      "A": "Heparina de bajo peso molecular solapada con dicumarínicos al menos los 5 primeros días, hasta obtener INR entre 2 y 3. Después dicumarínicos solos.",
+      "B": "Sólo heparina de bajo peso molecular mientras dure el embarazo, pasando a dicumarínicos tras el parto si es preciso prolongar el tratamiento.",
+      "C": "Sólo dicumarínicos desde el principio.",
+      "D": "Los anticoagulantes están contraindicados en el embarazo. Sólo medias de compresión fuerte."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "La causa principal de morbimortalidad neonatal asociada a la gestación gemelar es:",
+    "opciones": {
+      "A": "RPM",
+      "B": "Infecciones asociadas a membranas",
+      "C": "Prematuridad",
+      "D": "Hipertensión inducida por el embarazo"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Respecto a la asociación entre el uso de anticonceptivos orales de estrógeno-gestágenos y cáncer, una de las siguientes afirmaciones es FALSA:",
+    "opciones": {
+      "A": "Tienen un efecto protector contra el carcinoma de mama.",
+      "B": "Tienen un efecto protector contra el carcinoma de ovario.",
+      "C": "Incrementan el riesgo de carcinoma de cérvix en mujeres HPV positivas.",
+      "D": "No se ha encontrado asociación con el carcinoma hepático."
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "Una paciente de 28 años acude por amenorrea secundaria. Refiere 2 interrupciones legales del embarazo. No usa método anticonceptivo y el test de embarazo hace una semana es negativo. Se realiza una ecografía transvaginal sin hallazgos patológicos. Tras el tratamiento con progesterona no se obtiene regla, y tampoco tras el tratamiento con anovulatorios. La etiología debe localizarse en:",
+    "opciones": {
+      "A": "Hipotálamo.",
+      "B": "Ovario.",
+      "C": "Útero o cuello uterino.",
+      "D": "Eje hipotálamo-hipófiso-gonadal."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Mujer de 54 años que, en una mamografía de cribado, se detecta nódulo espiculado de 6 mm, en cuadrante superoexterno de la mama izquierda. Biopsia con aguja gruesa: carcinoma infiltrante de tipo no especial (NST o NOS). Los receptores hormonales resultan ser positivos. Her 2-neu negativo. Ki 67 15%. Exploración clínica: nódulo no palpable, axila libre. Ecografía axilar: no ganglios sospechosos. Señale la afirmación incorrecta respecto a este caso:",
+    "opciones": {
+      "A": "Dado el tamaño tumoral, sería preferible una resección conservadora frente a una mastectomía.",
+      "B": "Sería conveniente el estudio de los ganglios linfáticos, mediante la técnica del ganglio centinela.",
+      "C": "Sería tributaria de recibir hormonoterapia.",
+      "D": "Sería aconsejable el uso de trastuzumab como parte del tratamiento."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "Paciente de 16 años, G2P2V2 en primer día de puerperio, con antecedente de epilepsia desde la infancia, en manejo con levetiracetam, tuvo parto vaginal eutócico, sin ningún otro antecedente positivo relevante, desea iniciar anticoncepción con Bellaface (etinil estradiol más dienogest), ya que su hermana lo utiliza y “le ha sentado muy bien”. ¿Qué recomendación le daría?",
+    "opciones": {
+      "A": "Lo puede utilizar si ningún inconveniente",
+      "B": "Los estrógenos se contraindican en los primeros 21 días de puerperio",
+      "C": "Sugeriría un método anticonceptivo solo de progestina o un DIU",
+      "D": "b y c son correctas"
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes enunciados sobre la preeclampsia es FALSO?",
+    "opciones": {
+      "A": "Se catalogará de preeclampsia grave cualquier hipertensión que se acompañe de algún signo o síntoma de afectación multiorgánica.",
+      "B": "Supone un factor de riesgo para abruptio",
+      "C": "Las prostaglandinas y la anestesia regional están contraindicadas para la maduración cervical y el parto",
+      "D": "En general, se acepta que la vía vaginal es preferible a la cesárea."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Ante una paciente de 42 años que consulta por alopecia androide, hirsutismo de aparición brusca, hipertrofia de clítoris, amenorrea, sensación de pesadez en hipogastrio y urgencia miccional, debemos descartar de forma inmediata:",
+    "opciones": {
+      "A": "Síndrome adrenogenital de aparición tardía.",
+      "B": "Tumor ovárico funcionante.",
+      "C": "Prolapso uterino en paciente perimenopáusica.",
+      "D": "Pseudohermafroditismo masculino."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Entre los factores de riesgo del cáncer de ovario, NO se encuentra:",
+    "opciones": {
+      "A": "Nuligesta.",
+      "B": "Mujeres que han seguido tratamiento con inductores de ovulación.",
+      "C": "Síndrome de ovario poliquístico.",
+      "D": "Postmenopáusica con antecedente de cáncer de colon"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Tercigesta de 40 años con dos partos eutócicos previo gestante de 38.3 semanas. Acude a la consulta para control del HTA crónica en tratamiento con alfametildopa. Durante la monitorización cardiotocográfica la paciente comienza con dolor abdominal mantenido. El RCTG muestra un patrón fetal con variabilidad disminuida (<5 lpm) y el tono uterino se encuentra aumentado ¿Cuál sería su actitud?",
+    "opciones": {
+      "A": "Sospecha de preeclampsia. Sulfato de Magnesio y finalizar la gestación",
+      "B": "Sospecha de desprendimiento de placenta. Ingreso para inducción dado que se trata de una tercigesta.",
+      "C": "Sospecha de desprendimiento de placenta. Cesárea",
+      "D": "Pródromos de eclampsia, ingreso e inducción del parto."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Son causas de amenorrea primaria todas las siguientes, excepto:",
+    "opciones": {
+      "A": "Disgenesia gonadal",
+      "B": "Síndrome de Rokitansky",
+      "C": "Insuficiencia ovárica prematura",
+      "D": "Hiperplasia suprarrenal congénita"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Todos los siguientes cuadros, EXCEPTO uno, pueden ser causa de metrorragia del 1º trimestre de gestación:",
+    "opciones": {
+      "A": "Amenaza de aborto.",
+      "B": "Enfermedad trofoblástica.",
+      "C": "Desprendimiento prematuro de placenta.",
+      "D": "Hemorragia de implantación."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿A qué nos referimos al hablar de la enfermedad de Paget de la mama?",
+    "opciones": {
+      "A": "A la causa más frecuente de telorragia uniorificial y unilateral.",
+      "B": "A una forma especial de neoplasia de mama que se caracteriza por la presencia de las células de Paget en la epidermis del complejo areola-pezón.",
+      "C": "A la forma más letal de presentación de un cáncer de mama.",
+      "D": "A una lesión mamaria que se resuelve generalmente con corticoides tópicos de potencia media-alta."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Cuando se presenta alteración en la placentación y el trofoblasto compromete el endometrio, el miometrio, la serosa y órganos vecinos, hablamos de:",
+    "opciones": {
+      "A": "Placenta previa",
+      "B": "Placenta Acreta",
+      "C": "Placenta increta",
+      "D": "Placenta percreta"
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes agentes quimioterápicos debe emplearse como tratamiento de primera línea en los tumores epiteliales malignos del ovario?",
+    "opciones": {
+      "A": "Bleomicina.",
+      "B": "Cis-platino.",
+      "C": "Metotrexato.",
+      "D": "Actinomicina D."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Secundigesta de 37.2 semanas con un parto pretérmino vía vaginal hace 3 años de 2300 grs, que acude a Urgencias por dinámica uterina. En el RCTG se objetiva 4 deceleraciones tardías en relación con las contracciones con buena variabilidad. Exudado vagino-rectal positivo para Streptococo grupo B. A la exploración, presenta un cérvix dilatado 3 cm, borrado 80%, cefálica sobre estrecho superior, bolsa íntegra. Se realiza una amnioscopia objetivando líquido amniótico teñido. ¿Cuál considera la actitud obstétrica más correcta?",
+    "opciones": {
+      "A": "Se trata de un riesgo de pérdida del bienestar fetal. Cesárea.",
+      "B": "Profilaxis antibiótica. Amniorrexis artificial. Si continúa con RCTG poco tranquilizador, realizar microtoma de calota.",
+      "C": "Iniciar profilaxis antibiótica si tras >18 horas de bolsa rota no se ha producido el parto.",
+      "D": "Realizar microtoma de pH y si el resultado es menor de 7.25 cesárea urgente."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "En relación con la transmisión vertical del virus de la inmunodeficiencia humana (VIH) a partir de una madre afecta del síndrome de inmunodeficiencia adquirida (SIDA), ¿cuál es la respuesta FALSA?",
+    "opciones": {
+      "A": "Si la situación serológica con respecto al VIH es desconocida en el momento del parto, o en el postparto inmediato, se debe indicar, con carácter urgente, la realización de pruebas serológicas rápidas.",
+      "B": "El embarazo es, por sí solo, indicación de recibir tratamiento antirretroviral de alta eficacia (triple terapia).",
+      "C": "La gestación empeora la progresión de la enfermedad.",
+      "D": "Las mujeres infectadas por el VIH tienen un riesgo aumentado de aborto espontáneo. Algunos estudios muestran una mayor tasa de prematuridad, un mayor retraso del crecimiento y una mayor tasa de muertes fetales en gestantes infectadas por el VIH."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones constituye un factor de riesgo para cáncer de cérvix?",
+    "opciones": {
+      "A": "Tabaquismo",
+      "B": "Alcohol",
+      "C": "Consumo negado de anticonceptivos orales",
+      "D": "IMC < 25"
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones respecto a la menopausia es FALSA?",
+    "opciones": {
+      "A": "La estrona pasa a ser el estrógeno más importante de la postmenopausia.",
+      "B": "La producción de estradiol disminuye.",
+      "C": "La producción de progesterona es baja.",
+      "D": "La FSH y LH han descendido."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "¿Cuándo considera indicado iniciar el estudio de una pareja que ha presentado varios abortos?",
+    "opciones": {
+      "A": "Depende de la edad de los progenitores",
+      "B": "Depende del número de hijos nacidos vivos previos.",
+      "C": "Ante la pérdida espontánea de dos o más gestaciones.",
+      "D": "Ante la pérdida espontánea de tres o más gestaciones."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "En el estudio inicial de la amenorrea secundaria, ¿cuál de los siguientes grupos de paraclínicos es más adecuado solicitar de manera inicial?",
+    "opciones": {
+      "A": "Ecografía Transvaginal, niveles de FSH y LH",
+      "B": "Prueba de embarazo, FSH, LH Y Estradiol",
+      "C": "Ecografía pélvica, TSH y niveles de andrógenos",
+      "D": "Ecografía transvaginal, prueba de embarazo, TSH y Prolactina"
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "En pacientes con síndrome de ovario poliquístico, con anovulación, existe un alto riesgo de presentar:",
+    "opciones": {
+      "A": "Resistencia a la insulina",
+      "B": "Hipercoagulación",
+      "C": "Hipercolesterolemia",
+      "D": "Hipertrigliceridemia"
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes sustancias es la más adecuada para el tratamiento del hirsutismo que se asocia a los ovarios poliquísticos?",
+    "opciones": {
+      "A": "Clomifeno.",
+      "B": "Estrógenos.",
+      "C": "Acetato de ciproterona.",
+      "D": "Corticoides."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "En el manejo de la paciente embarazada con epilepsia se prefiere cuál de los siguientes anticonvulsivantes:",
+    "opciones": {
+      "A": "Lamotrigina",
+      "B": "Carbamazepina",
+      "C": "Levetiracetam",
+      "D": "1 y 3 son correctas"
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "El aumento de la resistencia a la insulina es un problema asociado frecuentemente a:",
+    "opciones": {
+      "A": "Mioma uterino.",
+      "B": "Endometriosis.",
+      "C": "Hiperplasia suprarrenal congénita por déficit de 17-a-hidroxilasa.",
+      "D": "Síndrome de ovarios poliquísticos, debido al exceso de síntesis de andrógenos."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "Sospechamos la enfermedad trofoblástica gestacional por todos los siguientes, EXCEPTO uno. Señálelo:",
+    "opciones": {
+      "A": "Metrorragia del primer trimestre.",
+      "B": "Exageración de los síntomas gestacionales.",
+      "C": "Útero menor de lo esperado por la amenorrea.",
+      "D": "Ecografía en copos de nieve."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Qué afirmación es INCORRECTA respecto a las variables pronósticas del cáncer de mama:",
+    "opciones": {
+      "A": "El tamaño del tumor y el estado de los ganglios linfáticos axilares son factores de valor pronóstico probado.",
+      "B": "La recidiva del cáncer de mama es más probable en los tumores que poseen receptores hormonales de estrógenos y de progesterona.",
+      "C": "Elevadas concentraciones de Ki67 indican peor pronóstico.",
+      "D": "El subtipo luminal A presenta una alta tasa de respuesta a la hormonoterapia y escaso beneficio de la quimioterapia,"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "La complicación más frecuente que puede aparecer en una portadora de un DIU de cobre es:",
+    "opciones": {
+      "A": "Perforación uterina",
+      "B": "Hemorragia genital",
+      "C": "Gestaciones ectópicas",
+      "D": "Interfiere en las relaciones sexuales"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Los niveles altos de FSH y LH para diagnosticar menopausia mediante exámenes de laboratorio corresponde a:",
+    "opciones": {
+      "A": "FSH >40 mU/ml, y estradiol <20 pg/ml",
+      "B": "FSH <40 mU/ml, y estradiol <20 pg/ml",
+      "C": "FSH >20 mU/ml, y estradiol >20 pg/ml",
+      "D": "No se alteran significativamente los niveles hormonales."
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "Una paciente de 50 años se le realizó una biopsia de endometrio que tiene el siguiente informe de anatomía patológica: hiperplasia endometrial atípica. ¿Cuál de las siguientes es la conducta más adecuada?",
+    "opciones": {
+      "A": "Tratamiento con progesterona y control con biopsias seriadas en 6 meses",
+      "B": "Terapia de reemplazo hormonal con estrógenos solos",
+      "C": "Terapia de reemplazo hormonal con estrógenos y progestágenos",
+      "D": "Histerectomía"
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "Todos los siguientes son factores de mal pronóstico en el cáncer de mama EXCEPTO uno; señálelo:",
+    "opciones": {
+      "A": "Edad: 55 años.",
+      "B": "Un valor alto de Ki67",
+      "C": "Invasión vásculo-linfática (IVL)",
+      "D": "Receptores estrogénicos negativos."
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál de estas circunstancias NO se ha relacionado con una mayor probabilidad de embarazo ectópico?",
+    "opciones": {
+      "A": "Cirugía tubárica previa.",
+      "B": "Enfermedad inflamatoria pélvica.",
+      "C": "Conización cervical.",
+      "D": "Técnicas de reproducción asistida."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Paciente de 26 años, nulípara con amenorrea de 3 meses, acude por hemorragia vaginal moderada. En la exploración se objetiva un útero mayor del que correspondería al tiempo de amenorrea. La HCG es fuertemente positiva y la ecografía muestra una imagen semejante a los copos de nieve en la cavidad uterina. ¿Qué es FALSO en relación a esta patología?",
+    "opciones": {
+      "A": "Puede ser causa de preeclampsia antes de la 20ª semana.",
+      "B": "Puede cursar con clínica de tirotoxicosis.",
+      "C": "Puede coexistir con quistes tecaluteínicos en el ovario.",
+      "D": "El tratamiento de elección es la histerectomía."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "¿Cuál es el hecho más constante en el síndrome de ovario poliquístico?",
+    "opciones": {
+      "A": "Acné",
+      "B": "Obesidad.",
+      "C": "Esterilidad",
+      "D": "Hirsutismo."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "Mujer de 60 años. En la revisión rutinaria se detecta una masa móvil en pelvis. El estudio ecográfico pone de manifiesto, como único hallazgo, una lesión quística de 70 mm. con proliferaciones papilares internas y dependiente de ovario derecho. El marcador tumoral Cal25 es de 70 U/mL (normal < 35 U/ml). ¿Cuál es la conducta diagnóstico/terapéutica adecuada?",
+    "opciones": {
+      "A": "Control evolutivo mediante seriación ecográfica y del nivel del marcador.",
+      "B": "Estudio citológico de la lesión mediante punción aspiración con aguja fina.",
+      "C": "Tratamiento quirúrgico: anexectomía y estudio intraoperatorio de la lesión.",
+      "D": "Tratamiento quirúrgico: quistectomía y estudio intraoperatorio de la lesión."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "De las variedades de presentación de nalgas, ¿cuál es la más frecuente?",
+    "opciones": {
+      "A": "Nalgas completas.",
+      "B": "Nalgas incompletas.",
+      "C": "Nalgas puras.",
+      "D": "Rodillas."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la terapéutica recomendada en una paciente con cáncer de ovario?",
+    "opciones": {
+      "A": "Radioterapia.",
+      "B": "Cirugía citorreductora y quimioterapia.",
+      "C": "Hormonoterapia.",
+      "D": "Cirugía sin tratamiento quimioterápico."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Con respecto a la transmisión vertical materno-infantil del virus de la inmunodeficiencia humana, ¿cuál de las siguientes respuestas es correcta?",
+    "opciones": {
+      "A": "El tratamiento antirretroviral durante la gestación disminuye la trasmisión del VIH al niño.",
+      "B": "El VIH no se transmite a través de la leche materna.",
+      "C": "El tratamiento antirretroviral al niño tras el parto está contraindicado.",
+      "D": "Las mujeres gestantes con infección por el VIH no deben ser tratadas con antirretrovirales."
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "En relación con los cambios metabólicos que se producen a lo largo del embarazo, señale cuál de las siguientes afirmaciones es FALSA:",
+    "opciones": {
+      "A": "El calcio, fósforo, hierro y magnesio se encuentran descendidos.",
+      "B": "Aumenta el colesterol.",
+      "C": "En mujeres diabéticas, durante la primera mitad del embarazo, existe un aumento de las necesidades de insulina.",
+      "D": "Aumenta la fosfatasa alcalina."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes sustancias es la más adecuada para el tratamiento del hirsutismo, que se asocia a los ovarios poliquísticos?",
+    "opciones": {
+      "A": "Clomifeno.",
+      "B": "Acetato de ciproterona.",
+      "C": "Corticoides.",
+      "D": "Gonadotrofinas."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "En relación con la HCG placentaria, NO es verdad:",
+    "opciones": {
+      "A": "Se demuestra en sangre materna a los diez días del pico ovulatorio.",
+      "B": "Se alcanzan los máximos niveles a la 10-12 semana.",
+      "C": "Empieza a decaer en el tercer trimestre.",
+      "D": "Las concentraciones de HCG en placenta son similares a las séricas."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "El protocolo de cáncer de ovario NO incluye:",
+    "opciones": {
+      "A": "Omentectomía.",
+      "B": "Múltiples biopsias peritoneales.",
+      "C": "Esplenectomía.",
+      "D": "Histerectomía."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "El aumento patológico de alfafetoproteína en el suero de la gestante puede asociarse a:",
+    "opciones": {
+      "A": "Hipertiroidismo materno.",
+      "B": "Colestasis intrahepática del embarazo",
+      "C": "Malformaciones fetales del SN.",
+      "D": "Incompatibilidad Rh."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes se sintetiza fundamentalmente en la grasa periférica?",
+    "opciones": {
+      "A": "Estriol.",
+      "B": "Estrona.",
+      "C": "Sulfato de DHEA.",
+      "D": "17-OH-Progesterona."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "El síndrome de Asherman se produce por:",
+    "opciones": {
+      "A": "Hipoplasia uterina.",
+      "B": "Miomatosis uterina múltiple.",
+      "C": "Legrados uterinos repetidos.",
+      "D": "Incompetencia cervical."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "El síndrome de Rokitansky-Küster-Hauser se caracteriza por los siguientes hechos, EXCEPTO:",
+    "opciones": {
+      "A": "Gónadas normales, funcionantes y desarrollo puberal normal",
+      "B": "Cariotipo 46, XY.",
+      "C": "Ausencia congénita parcial o total de útero.",
+      "D": "Malformaciones renales asociadas."
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Una paciente de 13 años acude a la Urgencia de Pediatría por dolor hipogástrico severo, que ya le había sucedido otras veces en el último año. Se evidencia una masa de 15 cm en la pelvis menor. La ecografía la describe como quística, con contenido de ecogenicidad intermedia, y no se observa útero ni ovarios. Los genitales externos son normales, así como el vello genital. Entre los labios menores se ve una zona oscurecida a tensión. ¿Qué puede ser?",
+    "opciones": {
+      "A": "Tabique vaginal transverso.",
+      "B": "Sarcoma botrioide quístico.",
+      "C": "Quiste de Gardner.",
+      "D": "Himen imperforado."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "Mujer de 68 años que comienza con clínica de aumento del diámetro abdominal desde hace 5 meses, que se acompaña de dolor en los últimos 15 días. Tras realizar las exploraciones pertinentes, se la diagnostica de cáncer de ovario de tipo cistoadenocarcinoma seroso, en estadio IIIb. Se le realiza tratamiento quirúrgico, sin dejar ningún resto tumoral. ¿Cómo completaría el tratamiento?",
+    "opciones": {
+      "A": "No necesita más tratamiento.",
+      "B": "Radioterapia abdominal.",
+      "C": "Poliquimioterapia adyuvante.",
+      "D": "Radioterapia más quimioterapia con cisplatino."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "Ingresa a la guardia de obstetricia una paciente de 39 años G4 P3 cursando embarazo de 34 semanas, refiere dolor abdominal y al examen físico: FCF 100 por minuto, tono uterino aumentado, dinámica uterina negativa, sangrado que comienza bruscamente oscuro. Usted piensa en:",
+    "opciones": {
+      "A": "Placenta Previa.",
+      "B": "Rotura uterina.",
+      "C": "Amenaza de parto pretérmino inminente.",
+      "D": "Desprendimiento prematuro de placenta normoinserta."
+    },
+    "correcta": "D"
+  },
+  {
+    "pregunta": "El tumor de Krukenberg del ovario:",
+    "opciones": {
+      "A": "Es metastático de origen pulmonar.",
+      "B": "Es metastático de origen en vejiga.",
+      "C": "Es metastático de origen en aparato digestivo.",
+      "D": "Sólo se presenta pasada la menopausia."
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes patologías es contraindicación absoluta para el uso de la terapia de reemplazo hormonal vía oral?",
+    "opciones": {
+      "A": "Enfermedad hepática aguda grave",
+      "B": "Mastopatía fibroquística avanzada",
+      "C": "Miomatosis uterina importante",
+      "D": "Hipertrigliceridemia familiar"
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "Una mujer de 30 años, con antecedentes de enfermedad inflamatoria pélvica, acude a Urgencias por presentar metrorragia y dolor hipogástrico desde hace unas horas, después de 7 semanas de amenorrea, hemodinámicamente estable. En la exploración se aprecia sangrado a través del orificio cervical externo, útero levemente aumentado de tamaño y engrosamiento anexial derecho. Ante la sospecha diagnóstica más probable, señale cuál de las siguientes pruebas carece de utilidad:",
+    "opciones": {
+      "A": "Test bioquímico de gestación.",
+      "B": "Radiografía simple de abdomen.",
+      "C": "Ecografía ginecológica.",
+      "D": "Laparoscopia."
+    },
+    "correcta": "B"
   }
 ]
+
+
+
+
 
 
 
